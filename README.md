@@ -32,10 +32,10 @@ This assignment is currently hosted at <insert link here>
 The following instructions will get you a copy of this project up and running on your local machine for development and testing purposes.
 
 # Prerequisites
-> [Virtual environment] - Setting up virtual environment
-> [Pip] - Installing pip
-> [mySQL] - mySQL db
-> [Python3]
+- [Virtual environment] - Setting up virtual environment
+- [Pip] - Installing pip
+- [mySQL] - mySQL db
+- [Python3]
 
 
 # Setup project
