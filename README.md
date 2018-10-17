@@ -47,8 +47,8 @@ Spoiler Preventer requires [mySQL]  v8.0+ to run.
 Create a virtual environment using these commands
 
 ```sh
-$ git clone <enterrrrrrr>
-$ cd <enterrr>
+$ git clone https://github.com/include-sanju/Spoiler-Preventer.git
+$ cd https://github.com/include-sanju/Spoiler-Preventer.git
 $ virtualenv -p /usr/bin/python3 venv
 ```
 Start the virtual environment by
