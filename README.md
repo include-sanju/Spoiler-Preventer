@@ -27,7 +27,10 @@ This assignment is currently hosted at <insert link here>
   - Provides with storyline of the show
   
 ### Sample SQL database
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/include-sanju/Spoiler-Preventer/master/db.png)
+### Output for sample cases (behaviour)
+![alt text](https://raw.githubusercontent.com/include-sanju/Spoiler-Preventer/master/allcases.png)
+
 # Getting Started
 The following instructions will get you a copy of this project up and running on your local machine for development and testing purposes.
 
