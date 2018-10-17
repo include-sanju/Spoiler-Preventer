@@ -23,7 +23,7 @@ This assignment is currently hosted at <insert link here>
   - Now faster with multithreading in python
   - Automatically outputs the closest correct name and specifies the release year of the show (avoids confusion)
   - Displays imdb rating of each show
-  - Sorts according to imdb rating (high to low) 
+  - Sorts according to imdb rating (low to high) 
   - Provides with storyline of the show
   
 ### Sample SQL database
